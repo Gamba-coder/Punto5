@@ -1,0 +1,5 @@
+# Pedir el nombre del usuario
+nombre = input("¿Cómo te llamas? ")
+
+# Mostrar el saludo con el nombre del usuario
+print(f"¡Hola {nombre}!")
